@@ -1,0 +1,222 @@
+[
+  {
+      "id": 1,
+      "countryId": 1,
+      "countryName": "Colombia",
+      "airportInformation": {
+          "Id": 1,
+          "airportInfoId": 1,
+          "icaoCode": "SKAR",
+          "iataCode": "AXM",
+          "airportName": "EL EDEN",
+          "city": "ARMENIA",
+          "country": 1,
+          "latDecimal": 4.454,
+          "lonDecimal": -75.765,
+          "runwayAvail1": 2,
+          "runwayAvail2": 0,
+          "runwayLen": 2251,
+          "airportElev": 3979,
+          "airportRemarks": ""
+      },
+      "airportNavigationData": {
+          "id": 1,
+          "airportNavDataId": 1,
+          "hasVfr": "true",
+          "hasVfrIfr": "true",
+          "hasSid": "true",
+          "hasStar": "true",
+          "hasArrArc": "true",
+          "hasDepArc": "false",
+          "hasIlsApp": "true",
+          "hasNdbApp": "false",
+          "hasVorApp": "true",
+          "approachDiff": 2,
+          "airportNavDataRemarks": ""
+      }
+  },
+  {
+      "id": 2,
+      "countryId": 1,
+      "countryName": "Colombia",
+      "airportInformation": {
+          "Id": 2,
+          "airportInfoId": 2,
+          "icaoCode": "SKAS",
+          "iataCode": "PUU",
+          "airportName": "TRES DE MAYO",
+          "city": "PUERTO ASIS",
+          "country": 1,
+          "latDecimal": 0.3507,
+          "lonDecimal": -76.501,
+          "runwayAvail1": 1,
+          "runwayAvail2": 0,
+          "runwayLen": 1608,
+          "airportElev": 815,
+          "airportRemarks": ""
+      },
+      "airportNavigationData": {
+          "Id": 2,
+          "airportNavDataId": 2,
+          "hasVfr": "true",
+          "hasVfrIfr": "true",
+          "hasSid": "false",
+          "hasStar": "false",
+          "hasArrArc": "false",
+          "hasDepArc": "false",
+          "hasIlsApp": "false",
+          "hasNdbApp": "false",
+          "hasVorApp": "false",
+          "approachDiff": 2,
+          "airportNavDataRemarks": ""
+      }
+  },
+  {
+      "id": 3,
+      "countryId": 1,
+      "countryName": "Colombia",
+      "airportInformation": {
+          "Id": 3,
+          "airportInfoId": 3,
+          "icaoCode": "SKBC",
+          "iataCode": "N/A",
+          "airportName": "LAS FLORES",
+          "city": "EL BANCO",
+          "country": 1,
+          "latDecimal": 9.045,
+          "lonDecimal": -73.975,
+          "runwayAvail1": 10,
+          "runwayAvail2": 0,
+          "runwayLen": 1330,
+          "airportElev": 111,
+          "airportRemarks": ""
+      },
+      "airportNavigationData": {
+          "Id": 3,
+          "airportNavDataId": 3,
+          "hasVfr": "true",
+          "hasVfrIfr": "false",
+          "hasSid": "false",
+          "hasStar": "false",
+          "hasArrArc": "false",
+          "hasDepArc": "false",
+          "hasIlsApp": "false",
+          "hasNdbApp": "false",
+          "hasVorApp": "false",
+          "approachDiff": 2,
+          "airportNavDataRemarks": ""
+      }
+  },
+  {
+      "id": 4,
+        "countryId": 1,
+        "countryName": "Colombia",
+        "airportInformation": {
+            "Id": 4,
+            "airportInfoId": 4,
+            "icaoCode": "SKBG",
+            "iataCode": "BGA",
+            "airportName": "PALONEGRO",
+            "city": "BUCARAMANGA",
+            "country": 1,
+            "latDecimal": 7.126,
+            "lonDecimal": -73.185,
+            "runwayAvail1": 17,
+            "runwayAvail2": 0,
+            "runwayLen": 2256,
+            "airportElev": 3902,
+            "airportRemarks": ""
+        },
+        "airportNavigationData": {
+            "Id": 4,
+            "airportNavDataId": 4,
+            "hasVfr": "true",
+            "hasVfrIfr": "true",
+            "hasSid": "true",
+            "hasStar": "true",
+            "hasArrArc": "true",
+            "hasDepArc": "true",
+            "hasIlsApp": "true",
+            "hasNdbApp": "false",
+            "hasVorApp": "true",
+            "approachDiff": 3,
+            "airportNavDataRemarks": ""
+        }
+  },
+  {
+      "id": 5,
+        "countryId": 1,
+        "countryName": "Colombia",
+        "airportInformation": {
+            "Id": 5,
+            "airportInfoId": 5,
+            "icaoCode": "SKBO",
+            "iataCode": "BOG",
+            "airportName": "ELDORADO",
+            "city": "BOGOTA",
+            "country": 1,
+            "latDecimal": 4.701,
+            "lonDecimal": -74.147,
+            "runwayAvail1": 14,
+            "runwayAvail2": 0,
+            "runwayLen": 3799,
+            "airportElev": 8360,
+            "airportRemarks": ""
+        },
+        "airportNavigationData": {
+            "Id": 5,
+            "airportNavDataId": 5,
+            "hasVfr": "true",
+            "hasVfrIfr": "true",
+            "hasSid": "true",
+            "hasStar": "true",
+            "hasArrArc": "false",
+            "hasDepArc": "false",
+            "hasIlsApp": "true",
+            "hasNdbApp": "false",
+            "hasVorApp": "true",
+            "approachDiff": 3,
+            "airportNavDataRemarks": ""
+        }
+  },
+  {
+      "id": 6,
+        "countryId": 1,
+        "countryName": "Colombia",
+        "airportInformation": {
+            "Id": 6,
+            "airportInfoId": 6,
+            "icaoCode": "SKBQ",
+            "iataCode": "BAQ",
+            "airportName": "ERNESTO CORTISSOZ",
+            "city": "BARRANQUILLA",
+            "country": 1,
+            "latDecimal": 10.889,
+            "lonDecimal": -74.781,
+            "runwayAvail1": 5,
+            "runwayAvail2": 0,
+            "runwayLen": 3050,
+            "airportElev": 98,
+            "airportRemarks": ""
+        },
+        "airportNavigationData": {
+            "Id": 6,
+            "airportNavDataId": 6,
+            "hasVfr": "true",
+            "hasVfrIfr": "true",
+            "hasSid": "true",
+            "hasStar": "true",
+            "hasArrArc": "false",
+            "hasDepArc": "true",
+            "hasIlsApp": "true",
+            "hasNdbApp": "false",
+            "hasVorApp": "true",
+            "approachDiff": 3,
+            "airportNavDataRemarks": ""
+        }
+  }
+  
+]
+ 
+ 
+ 
