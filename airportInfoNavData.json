@@ -4,7 +4,7 @@
       "countryId": 1,
       "countryName": "Colombia",
       "airportInformation": {
-          "Id": 1,
+          "id": 1,
           "airportInfoId": 1,
           "icaoCode": "SKAR",
           "iataCode": "AXM",
@@ -40,7 +40,7 @@
       "countryId": 1,
       "countryName": "Colombia",
       "airportInformation": {
-          "Id": 2,
+          "id": 2,
           "airportInfoId": 2,
           "icaoCode": "SKAS",
           "iataCode": "PUU",
@@ -56,7 +56,7 @@
           "airportRemarks": ""
       },
       "airportNavigationData": {
-          "Id": 2,
+          "id": 2,
           "airportNavDataId": 2,
           "hasVfr": "true",
           "hasVfrIfr": "true",
@@ -76,7 +76,7 @@
       "countryId": 1,
       "countryName": "Colombia",
       "airportInformation": {
-          "Id": 3,
+          "id": 3,
           "airportInfoId": 3,
           "icaoCode": "SKBC",
           "iataCode": "N/A",
@@ -92,7 +92,7 @@
           "airportRemarks": ""
       },
       "airportNavigationData": {
-          "Id": 3,
+          "id": 3,
           "airportNavDataId": 3,
           "hasVfr": "true",
           "hasVfrIfr": "false",
@@ -112,7 +112,7 @@
         "countryId": 1,
         "countryName": "Colombia",
         "airportInformation": {
-            "Id": 4,
+            "id": 4,
             "airportInfoId": 4,
             "icaoCode": "SKBG",
             "iataCode": "BGA",
@@ -128,7 +128,7 @@
             "airportRemarks": ""
         },
         "airportNavigationData": {
-            "Id": 4,
+            "id": 4,
             "airportNavDataId": 4,
             "hasVfr": "true",
             "hasVfrIfr": "true",
@@ -148,7 +148,7 @@
         "countryId": 1,
         "countryName": "Colombia",
         "airportInformation": {
-            "Id": 5,
+            "id": 5,
             "airportInfoId": 5,
             "icaoCode": "SKBO",
             "iataCode": "BOG",
@@ -164,7 +164,7 @@
             "airportRemarks": ""
         },
         "airportNavigationData": {
-            "Id": 5,
+            "id": 5,
             "airportNavDataId": 5,
             "hasVfr": "true",
             "hasVfrIfr": "true",
@@ -184,7 +184,7 @@
         "countryId": 1,
         "countryName": "Colombia",
         "airportInformation": {
-            "Id": 6,
+            "id": 6,
             "airportInfoId": 6,
             "icaoCode": "SKBQ",
             "iataCode": "BAQ",
@@ -200,7 +200,7 @@
             "airportRemarks": ""
         },
         "airportNavigationData": {
-            "Id": 6,
+            "id": 6,
             "airportNavDataId": 6,
             "hasVfr": "true",
             "hasVfrIfr": "true",
